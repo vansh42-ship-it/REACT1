@@ -88,6 +88,3 @@ const App = () => {
 };
 
 export default App;
-{
-  /* <div className="h-52 w-40 rounded-2xl bg-white"></div> */
-}
